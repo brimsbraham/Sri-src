@@ -1,0 +1,14 @@
+|Loading Grails 2.4.4
+|Configuring classpath
+.
+|Environment set to development
+.................................
+|Packaging Grails application
+.....................................
+|Running Grails application
+|Server running. Browse to http://localhost:8080/ajax
+....2015-10-03 14:24:34,960 [http-bio-8080-exec-10] INFO  netjets.AirportController  - params.alternateAirport: sssssss,params.notes: wwwwwwwwww
+2015-10-03 14:24:35,236 [http-bio-8080-exec-10] INFO  netjets.AirportService  - altAirport: sssssss,notes: wwwwwwwwww
+2015-10-03 14:24:35,236 [http-bio-8080-exec-10] INFO  netjets.AirportService  - json: {"id":14,"alternateAirport":"sssssss","notes":"wwwwwwwwww"}
+2015-10-03 14:24:35,237 [http-bio-8080-exec-10] INFO  netjets.AirportService  - listData: {"Result":"OK","Record":{"id":14,"alternateAirport":"sssssss","notes":"wwwwwwwwww"}}
+Terminate batch job (Y/N)? 
